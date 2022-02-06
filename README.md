@@ -23,14 +23,14 @@ node index
 ## Step 1: 
 ![guess1](https://github.com/Pradakicks/wordleGuesser/blob/master/images/guess1.png)
 ## Step 2 and 3: 
-![terminalGuess1](https://github.com/Pradakicks/wordleGuesser/blob/master/images/terminalGuess1v2.png)
+![terminalGuess1](https://github.com/Pradakicks/wordleGuesser/blob/master/images/terminalGuess1V2.png)
 ## Step 4: 
 ![guess2](https://github.com/Pradakicks/wordleGuesser/blob/master/images/guess2.png)
 
 ## Step 5
-![terminalGuess2](https://github.com/Pradakicks/wordleGuesser/blob/master/images/terminalGuess2v2.png)
+![terminalGuess2](https://github.com/Pradakicks/wordleGuesser/blob/master/images/terminalGuess2V2.png)
 ![guess3](https://github.com/Pradakicks/wordleGuesser/blob/master/images/guess3.png)
-![terminalGuess3](https://github.com/Pradakicks/wordleGuesser/blob/master/images/terminalGuess3v2.png)
+![terminalGuess3](https://github.com/Pradakicks/wordleGuesser/blob/master/images/terminalGuess3V2.png)
 ![guess4](https://github.com/Pradakicks/wordleGuesser/blob/master/images/guess4.png)
 
 
