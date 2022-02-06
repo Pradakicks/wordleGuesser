@@ -28,11 +28,19 @@ node index
 ![guess2](https://github.com/Pradakicks/wordleGuesser/blob/master/images/guess2.png)
 
 ## Step 5
+
+###### Step 2 and 3:
 ![terminalGuess2](https://github.com/Pradakicks/wordleGuesser/blob/master/images/terminalGuess2V2.png)
+###### Step 4:
 ![guess3](https://github.com/Pradakicks/wordleGuesser/blob/master/images/guess3.png)
+
+## Step 5:
 ![terminalGuess3](https://github.com/Pradakicks/wordleGuesser/blob/master/images/terminalGuess3V2.png)
 ![guess4](https://github.com/Pradakicks/wordleGuesser/blob/master/images/guess4.png)
 
 
 
-I got my word lists from https://github.com/3b1b/videos/tree/master/_2022/wordle_data.
+
+
+
+**Word List Data Sources - https://github.com/3b1b/videos/tree/master/_2022/wordle_data and https://www.powerlanguage.co.uk/wordle/.**
